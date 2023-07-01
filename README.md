@@ -2,13 +2,13 @@
 
 # SITE Capstone Project
 
-SITE Course Year: **20__**
+SITE Course Year: **2023**
 
-Cohort: **Add Company Sponsor Name**
+Cohort: **Futureforce Tech Launchpad Corhort 1**
 
-Team Member Names:**Insert Team Member Names**
+Team Member Names:**Ethan Pineda, Richmond Akondo, Natanael Mekonnen**
 
-Mentors Names: **Insert Professional Mentor Names**
+Mentors Names: **Ankit Arora, Chethana Paniyadi, Apoorva Shenoy**
 
 Project Code Repository Links
 
