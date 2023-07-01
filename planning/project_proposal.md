@@ -1,6 +1,6 @@
 # Project Proposal
 
-Pod Members: Ethan Pineda, Richmond Akondo, Natanael Mekonnen
+Pod Members: Ethan Pineda, Richmond Akondo, Nathnael Mekonnen
 
 ## Problem Statement
 
