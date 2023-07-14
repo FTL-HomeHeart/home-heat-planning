@@ -130,7 +130,7 @@ Pain Points:
 
 ## Data Model
 
-[Goolge SpreadSheet Containing Data Model](https://docs.google.com/spreadsheets/d/11OJrOhOAeFXDFiQESF_E17a5zMwoVRgzYcUAedDKzKs/edit#gid=1115040679)
+[Goolge Spreadsheet Containing Data Model](https://docs.google.com/spreadsheets/d/11OJrOhOAeFXDFiQESF_E17a5zMwoVRgzYcUAedDKzKs/edit#gid=1115040679)
 
 
 ## Endpoints
