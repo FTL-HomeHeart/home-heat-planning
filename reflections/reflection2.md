@@ -1,25 +1,25 @@
 # Reflection #2
 
-Pod Members: **Add Pod Members Names**
+Pod Members: Ethan Pineda, Richmond Akondo, Nathnael Mekonnen
 
 ## Reflection Questions
 
-* Name at least one successful thing this week.
+We worked really well together this week and we managed to get a lot of the core functionality of our app this week and we only have a small amount of items left in our product backlog. 
 
  Add response here
 
-* What were some challenges you and/or your group faced this week?
+Since we implemented some big features this week, we had a lot of issues when it came to integrating and keeping everything consistent between our repos. 
 
  Add response here
 
-* Did you finish all of your tasks in your sprint plan for this week? If you did not finish all of the planned tasks, how would you prioritize the remaining tasks on your list?  (i.e over planned, did not know how to implement certain features, miscommunication from the team, had to pivot from original plans, etc.)
+Yes we did. What helped us a lot was establishing different roles amongst ourselves. 
 
  Add response here
 
-* Did the resources provided to you help prepare you in planning and executing your capstone project sprint this week? Be specific, what resources did you find particularly helpful or which tasks did you need more support on?
+I found the documentation for Material UI really useful, which was helpful when we had to implement more complex functionality onto our front end. 
 
  Add response here
 
-* Which features and user stories would you consider “at risk”? How will you change your plan if those items remain “at risk”?
+None. 
 
  Add response here
